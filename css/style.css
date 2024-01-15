@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+.container{
+ padding:10px 10%;
+ text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+
+
+.about-img, .about-imgwithtext{
+    width: 50%;
+}
+
+
+.about-imgwithtext p{
+    font-size: 12px;
+    text-align: start;
+}
+
+ #services{
+    background-color: #ff5252;
+ }
+
+.footer-social-icons ul li, .footer-contact, .contacts-info ul li{
+list-style: none;
+}
+
+.carousel-caption h1,p{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.form50{
+    height: 8vh;
+    width: 40%;
+    margin: 10px;
+}
+
+
+
+input{
+    background-color: whitesmoke;
+}
+
+.contact-us-button{
+    background-color: #ff5252;
+    height:auto;
+    text-align: center;
+    color: aliceblue;
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  
+}
+
+.card-title h2  {
+    border: 2px solid blue;
+    padding-top: 10px;
+}
